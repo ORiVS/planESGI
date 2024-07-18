@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962956281207",
+    "project_id": "esgiapp-1ca73",
+    "storage_bucket": "esgiapp-1ca73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962956281207:android:a72bf3aa64f11ae8bacd72",
+        "android_client_info": {
+          "package_name": "com.example.esgi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFjyEMadF-3sNsg0hv4FX_kF-0MlXxDL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
